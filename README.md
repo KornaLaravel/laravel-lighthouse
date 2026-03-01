@@ -70,4 +70,4 @@ If you discover a security vulnerability within Lighthouse, email Benedikt Frank
 
 Lighthouse is supported by [its awesome sponsors](https://lighthouse-php.com/sponsors).
 
-If you want to support the development of Lighthouse and see your logo there, consider [sponsoring](https://github.com/sponsors/spawnia).
+If you want to support the development of Lighthouse and see your logo there, consider sponsoring via [GitHub Sponsors](https://github.com/sponsors/spawnia) or [Patreon](https://www.patreon.com/lighthouse_php).
