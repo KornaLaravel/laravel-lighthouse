@@ -10,6 +10,10 @@ Lighthouse is a GraphQL framework that integrates with your Laravel application.
 It combines the best ideas of both ecosystems.
 It solves common tasks with ease and offers flexibility when you need it.
 
+## Sponsors
+
+If you make money using this project, please consider sponsoring [its maintainer on GitHub Sponsors](https://github.com/sponsors/spawnia) or [the project on Patreon](https://www.patreon.com/lighthouse_php).
+
 ## Documentation
 
 The documentation lives at [lighthouse-php.com](https://lighthouse-php.com).
@@ -44,8 +48,3 @@ All notable changes to this project are documented in [`CHANGELOG.md`](CHANGELOG
 
 When upgrading between major versions of Lighthouse, consider [`UPGRADE.md`](UPGRADE.md).
 
-## Sponsors
-
-Lighthouse is supported by [its awesome sponsors](https://lighthouse-php.com/sponsors).
-
-If you want to support the development of Lighthouse and see your logo there, consider sponsoring via [GitHub Sponsors](https://github.com/sponsors/spawnia) or [Patreon](https://www.patreon.com/lighthouse_php).
