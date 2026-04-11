@@ -58,10 +58,6 @@ All notable changes to this project are documented in [`CHANGELOG.md`](CHANGELOG
 
 When upgrading between major versions of Lighthouse, consider [`UPGRADE.md`](UPGRADE.md).
 
-## Contributing
-
-We welcome contributions of any kind, see how in [`CONTRIBUTING.md`](CONTRIBUTING.md).
-
 ## Sponsors
 
 Lighthouse is supported by [its awesome sponsors](https://lighthouse-php.com/sponsors).
