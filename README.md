@@ -1,16 +1,10 @@
-<div align="center">
-  <a href="https://lighthouse-php.com">
-    <img src="logo.png" alt=lighthouse-logo" width="150" height="150">
-  </a>
-</div>
-
-<div align="center">
+<a href="https://lighthouse-php.com">
+  <img src="logo.png" alt="Lighthouse" width="150" height="150">
+</a>
 
 # Lighthouse
 
-**A framework for serving GraphQL from Laravel**
-
-</div>
+A framework for serving GraphQL from Laravel.
 
 Lighthouse is a GraphQL framework that integrates with your Laravel application.
 It combines the best ideas of both ecosystems.
