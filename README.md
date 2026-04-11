@@ -62,10 +62,6 @@ When upgrading between major versions of Lighthouse, consider [`UPGRADE.md`](UPG
 
 We welcome contributions of any kind, see how in [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Lighthouse, email Benedikt Franke at [benedikt@franke.tech](mailto:benedikt@franke.tech).
-
 ## Sponsors
 
 Lighthouse is supported by [its awesome sponsors](https://lighthouse-php.com/sponsors).
